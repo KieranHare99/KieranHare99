@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/KieranHare99/KieranHare99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KieranHare99&show_icons=true&line_height=20&count_private=true&theme=dark&hide_title=false" />
+</a>
+<a href="https://github.com/KieranHare99/KieranHare99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranHare99&theme=dark&layout=compact" />
+</a>
+
 <!--
 **KieranHare99/KieranHare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
